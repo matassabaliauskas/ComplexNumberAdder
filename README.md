@@ -1,2 +1,2 @@
 # ComplexNumberAdder
- This program adds complex numbers
+ This program adds complex numbers (Written in C)
